@@ -1,19 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>My great web site</title>
-        <meta name="description" contents="Just a test website for learning html, css and php">
-        <link rel="stylesheet" href="css/style.css" type="text/css">
-    </head>
-    <body>
-        <header>
-            <nav id="main-navigation">
-                <ul>
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="page2.php">Page 2</a></li>
-                    <li><a href="page3.php">Page 3</a></li>
-                </ul>
-            </nav>
-        </header>
-        <div id="main-contents">
+<?php
+echo "<h2>Hello, From Red Hat v5! php version is <<h2>" . PHP_VERSION . "\n";
+<ul>
+	<li><a href="#">
+			<img src="landscape1_thumb.jpg" alt>
+		</a>
+	<li>
+</ul>
+<figure>
+	<img src="landscape1_large.jpg" alt>
+	<figcaption>Caption</figcaption>
+</figure>
+?>
