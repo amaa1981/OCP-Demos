@@ -17,10 +17,3 @@
             </nav>
         </header>
         <div id="main-contents">
-            This is page 3
-        </div>
-        <footer>
-            Contact us at webmaster@mywebsite.com
-        </footer>
-    </body>
-</html>
