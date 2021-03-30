@@ -5,7 +5,7 @@
     </head>
     <body>
         <?php
-echo "<h2>Hello from Red Hat v1</h2>"; 
+echo "<h2><center>Hello from Red Hat v1</center></h2>"; 
 ?>
         <div>
             <img src="rh.png" alt="myPic" />
